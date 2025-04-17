@@ -1,0 +1,28 @@
+HTML Tags used (excluding html, head, body, title):
+1. header
+2. main
+3. nav
+4. ul
+5. li
+6. a
+7. button
+8. img
+9. div
+10. footer
+
+CSS Selectors:
+1. .centered (class)
+2. .large (class)
+3. .medium (class)
+4. .small (class)
+5. img (tag)
+
+CSS Properties used:
+1. font-size
+2. margin
+3. padding
+4. border-radius
+5. color
+
+JavaScript: Used to create a "Random Cat" button that redirects to a random cat page.
+Bootstrap: Used for responsive layout, navigation bar, button styles, image responsiveness, and accordion component.

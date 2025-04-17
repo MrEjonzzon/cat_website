@@ -1,0 +1,28 @@
+.centered {
+    text-align: center;
+}
+
+.large {
+    font-size: 2rem;
+}
+
+.medium {
+    font-size: 1.2rem;
+    margin: 1rem;
+}
+
+.small {
+    font-size: 0.9rem;
+    color: #555;
+}
+
+img {
+    border-radius: 8px;
+}
+
+.cat-description {
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    margin: 1rem;
+}
